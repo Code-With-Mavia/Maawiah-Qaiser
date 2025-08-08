@@ -8,6 +8,7 @@ I'm a **backend-focused learner** driven by curiosity and continuous growth. Wit
 
 - 🧠 I believe in **"learning by doing"** — constantly evolving my skills through hands-on practice, real-world projects, and certification-backed learning.
 - 💻 Currently focused on mastering **Django** and backend technologies.
+- 🎓 Enrolled in **DJ4E (Django for Everybody)** by the University of Michigan *(in progress)* to deepen my practical understanding of Django and backend systems.
 - ☁️ **DevOps** is next on my roadmap — I plan to dive into containerization, CI/CD, and cloud deployment pipelines.
 - 📚 My journey is deeply guided by structure, curiosity, and a strong commitment to becoming a highly capable backend and DevOps engineer.
 
