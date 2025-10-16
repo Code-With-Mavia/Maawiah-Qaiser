@@ -73,8 +73,8 @@ I'm a **backend-focused learner** driven by curiosity and continuous growth. Wit
 
 ## 🔗 Connect with Me
 
-- 🌐 **Portfolio**: [https://personal-portfolio-alpha-navy-59.vercel.app/](https://portfolio-taupe-one-51.vercel.app/)
-- 💼 **LinkedIn**:  https://www.linkedin.com/in/maawiah-qaiser-10793722b/
+- 🌐 **Portfolio**: [Portfolio](https://portfolio-taupe-one-51.vercel.app/)
+- 💼 **LinkedIn**:  [Linkdn](https://www.linkedin.com/in/maawiah-qaiser-10793722b/)
 - 📧 **Email**: maviaqaiser09@gmail.com
 - 📞 **Phone**: +92-336-2715578
 
