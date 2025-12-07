@@ -56,7 +56,7 @@ Currently building scalable, secure backend solutions while expanding skills in 
 
 ## 🔗 Connect With Me
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=appveyor)]([https://personal-portfolio-alpha-navy59.vercel.app/](https://portfolio-taupe-one-51.vercel.app/))  
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=appveyor)](https://portfolio-taupe-one-51.vercel.app/) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Maawiah%20Qaiser-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/maawiah-qaiser-10793722b/)  
 [![Email](https://img.shields.io/badge/Email-maviaqaiser09@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:maviaqaiser09@gmail.com)  
 [![GitHub](https://img.shields.io/badge/GitHub-Code--With--Mavia-black?style=for-the-badge&logo=github)](https://github.com/Code-With-Mavia)  
