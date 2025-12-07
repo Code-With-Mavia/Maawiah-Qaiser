@@ -56,10 +56,10 @@ Currently building scalable, secure backend solutions while expanding skills in 
 
 ## 🔗 Connect With Me
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=appveyor)](https://portfolio-taupe-one-51.vercel.app/) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Maawiah%20Qaiser-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/maawiah-qaiser-10793722b/)  
-[![Email](https://img.shields.io/badge/Email-maviaqaiser09@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:maviaqaiser09@gmail.com)  
-[![GitHub](https://img.shields.io/badge/GitHub-Code--With--Mavia-black?style=for-the-badge&logo=github)](https://github.com/Code-With-Mavia)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-1abc9c?style=flat&logo=appveyor&logoColor=white)](https://portfolio-taupe-one-51.vercel.app/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Maawiah%20Qaiser-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/maawiah-qaiser-10793722b/)  
+[![Email](https://img.shields.io/badge/Email-maviaqaiser09@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:maviaqaiser09@gmail.com)  
+[![GitHub](https://img.shields.io/badge/GitHub-Code--With--Mavia-181717?style=flat&logo=github&logoColor=white)](https://github.com/Code-With-Mavia)
 
 ---
 
